@@ -1,5 +1,4 @@
 # Introduction
----
 프론트앤드 개발자를 베이스로 하는 컴퓨터학부 졸업생
  - TypeScript, JavaScript, Python, C#, java, C++
  - React, Vue.js
@@ -7,9 +6,7 @@
  - React-Native, Unity
 
 # Featured Project
----
 ## PACEMAKER
----
 
 > Front-End
  - JavaScript
@@ -24,7 +21,6 @@
  - NLP Question Generate(UniLm v.1)
  
 ## AIKU
----
 
 > Front-End
  - JavaScript(Vanilla + jQuery(아주 약간))
@@ -35,13 +31,11 @@
  - Redis
 
 ## Rhine Labs
----
 
  - JavaScript(Vanilla + jQuery(아주 약간))
 
 
 ## ROOT SEARCH
----
 
 > Front-End
  - JavaScript(Vanilla + jQuery(아주 약간))
@@ -53,7 +47,6 @@
 
 
 ## ANotablePad
----
 
 > Client
  - C#
@@ -64,7 +57,6 @@
  - .Net Framework
 
 ## Eliza Effect
----
 
  - Python
  - JavaScript
