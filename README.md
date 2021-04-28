@@ -31,7 +31,7 @@
  - Redis
 
 ## Rhine Labs
-
+> Front-End
  - JavaScript(Vanilla + jQuery(아주 약간))
 
 
