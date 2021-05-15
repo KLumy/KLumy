@@ -23,7 +23,7 @@
 
 Repository: [pacemaker][pacemaker-repo]
 
-Deploy: [PACEMAKER][pacemaker-demo]
+Deploy: [PACEMAKER][pacemaker-domo]
 
 [pacemaker-repo]: https://github.com/KLumy/pacemaker-spa-client
 [pacemaker-domo]: https://klumy.github.io/pacemaker-spa-client/
@@ -120,9 +120,9 @@ Deploy: [Rhine Labs][rhine-labs]
 
 
 
-Front-End Repository: [root-search-client][rhine-labs-repo]
+Front-End Repository: [root-search-client][root-search-client-repo]
 
-Back-End Repository: [root-search-server][]
+Back-End Repository: [root-search-server][root-search-server-reop]
 
 Deploy: [ROOT SEARCH][root-search]
 
