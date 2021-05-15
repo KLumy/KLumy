@@ -65,6 +65,12 @@ Deploy: [PACEMAKER][pacemaker-domo]
 
 해당 서비스에서 프론트엔드 파트를 담당하였습니다.
 
+
+
+Repository: [AISpeaker-AIKU](https://github.com/KLumy/AISpeaker)
+
+
+
 > Front-End
 
 - JavaScript(Vanilla + jQuery(아주 약간))
