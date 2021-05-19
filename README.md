@@ -34,8 +34,6 @@ Deploy: [PACEMAKER][pacemaker-domo]
 [pacemaker-repo]: https://github.com/KLumy/pacemaker-spa-client
 [pacemaker-domo]: https://klumy.github.io/pacemaker-spa-client/
 
-
-
 > 용어
 
 - 교사(Leader) : 채널을 생성하여 문서를 등록하고 이를 기반으로 문제를 생성하는 역할을 맡는 사용자
@@ -59,8 +57,6 @@ Deploy: [PACEMAKER][pacemaker-domo]
 
 - Question Generate(UniLm v.1)
 
-  
-
 ## AIKU
 
 일종의 인공지능 스피커로, 사용자는 음성 명령을 통해서 해당 서비스를 이용할 수 있습니다.
@@ -73,11 +69,7 @@ Deploy: [PACEMAKER][pacemaker-domo]
 
 해당 서비스에서 프론트엔드 파트를 담당하였습니다.
 
-
-
 Repository: [AISpeaker-AIKU](https://github.com/KLumy/AISpeaker)
-
-
 
 > Front-End
 
@@ -93,8 +85,6 @@ Repository: [AISpeaker-AIKU](https://github.com/KLumy/AISpeaker)
 
 - Question Answering
 
-  
-
 ## Rhine Labs
 
 문화상품권 사용에 어려움을 겪던 중 이를 개선하기 위해 만들어진 서비스입니다.
@@ -105,8 +95,6 @@ AIKU에서 사용하였던 프론트엔드 구조를 재구성하여 조금 더 
 
 서버가 존재하지 않는 웹 서비스입니다.
 
-
-
 Repository: [rhine-labs][rhine-labs-repo]
 
 Deploy: [Rhine Labs][rhine-labs]
@@ -114,13 +102,9 @@ Deploy: [Rhine Labs][rhine-labs]
 [rhine-labs-repo]: https://github.com/KLumy/RhineLabs
 [rhine-labs]: https://rhinelab-toolbox.netlify.app/
 
-
-
 > Front-End
 
 - JavaScript(Vanilla + jQuery(아주 약간))
-
-  
 
 ## ROOT SEARCH
 
@@ -134,21 +118,15 @@ Deploy: [Rhine Labs][rhine-labs]
 
 이 서비스에서 프론트엔드를 담당하였습니다.
 
-
-
 Front-End Repository: [root-search-client][root-search-client-repo]
 
 Back-End Repository: [root-search-server][root-search-server-reop]
 
 Deploy: [ROOT SEARCH][root-search]
 
-
-
 [root-search-client-repo]: https://github.com/RootSearch/root-search-client
 [root-search-server-reop]: https://github.com/RootSearch/root-search-server
 [root-search]: https://rootsearch.github.io/root-search-client/
-
-
 
 > Front-End
 
@@ -162,8 +140,6 @@ Deploy: [ROOT SEARCH][root-search]
 
 - Redis
 
-  
-
 ## ANotablePad
 
 네트워크 구현을 위한 프로젝트로, 중앙에 서버를 두고 하나의 클라이언트가 그린 그림을 다수의 클라이언트에게 동일하게 보여주는 기능을 하는 서비스입니다.
@@ -174,23 +150,17 @@ Deploy: [ROOT SEARCH][root-search]
 
 비교적 초기에 수행한 프로젝트로 완성도가 비교적 낮고 조잡하지만,기초적인 네트워크 프로토콜을 다수 사용하여 만든 프로젝트입니다.
 
-이 프로젝트를 통해서 네트워크의 동작 방식에 대해 피부로 느껴볼 수 있었습니다.
-
 이 프로젝트는 1인 프로젝트로 진행되었습니다.
-
-
 
 AnotablePad Repositories :
 
 - [AnotablePad_Client](https://github.com/KLumy/AnotablePad_Client)
 
-- [ANotablePad_ClientPC](https://github.com/KLumy/ANotablePad_ClientPC) 
+- [ANotablePad_ClientPC](https://github.com/KLumy/ANotablePad_ClientPC)
 
 - [AnotablePad_RoomServer](https://github.com/KLumy/AnotablePad_RoomServer)
 
 - [AnotablePad_NameServer](https://github.com/KLumy/AnotablePad_NameServer)
-
-  
 
 > Client
 
