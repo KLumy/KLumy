@@ -2,9 +2,9 @@
 
 프론트앤드 개발자를 베이스로 하는 컴퓨터학부 졸업생
 
-- TypeScript, JavaScript, Python, C#, java, C++
-- React, Vue.js
-- Node.js, Django
+- TypeScript, JavaScript, Python, C#
+- React
+- Node.js
 - React-Native, Unity
 
 # Featured Project
