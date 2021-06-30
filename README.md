@@ -2,9 +2,9 @@
 
 프론트앤드 개발자를 베이스로 하는 컴퓨터학부 졸업생
 
-- TypeScript, JavaScript, Python, C#, java, C++
-- React, Vue.js
-- Node.js, Django
+- TypeScript, JavaScript, Python, C#
+- React
+- Node.js
 - React-Native, Unity
 
 # Featured Project
@@ -34,8 +34,6 @@ Deploy: [PACEMAKER][pacemaker-domo]
 [pacemaker-repo]: https://github.com/KLumy/pacemaker-spa-client
 [pacemaker-domo]: https://klumy.github.io/pacemaker-spa-client/
 
-
-
 > 용어
 
 - 교사(Leader) : 채널을 생성하여 문서를 등록하고 이를 기반으로 문제를 생성하는 역할을 맡는 사용자
@@ -58,8 +56,6 @@ Deploy: [PACEMAKER][pacemaker-domo]
 - Docker
 
 - Question Generate(UniLm v.1)
-
-  
 
 ## AIKU
 
@@ -85,8 +81,6 @@ Deploy: [PACEMAKER][pacemaker-domo]
 
 Repository: [AISpeaker-AIKU](https://github.com/KLumy/AISpeaker)
 
-
-
 > Front-End
 
 - JavaScript(Vanilla + jQuery(아주 약간))
@@ -101,8 +95,6 @@ Repository: [AISpeaker-AIKU](https://github.com/KLumy/AISpeaker)
 
 - Question Answering
 
-  
-
 ## Rhine Labs
 
 문화상품권 사용에 어려움을 겪던 중 이를 개선하기 위해 만들어진 서비스입니다.
@@ -115,7 +107,9 @@ AIKU에서 사용하였던 프론트엔드 구조를 재구성하여 조금 더 
 
 ​    
 
-- CD<img src="https://user-images.githubusercontent.com/30566564/123922374-ee4f7680-d9c2-11eb-9b7a-54d7b681c31f.jpg" alt="ClassDiagram" style="zoom:80%;" />
+- CD
+
+  <img src="https://user-images.githubusercontent.com/30566564/123922374-ee4f7680-d9c2-11eb-9b7a-54d7b681c31f.jpg" alt="ClassDiagram" style="zoom:80%;" />
 
 - SD
 
@@ -130,13 +124,9 @@ Deploy: [Rhine Labs][rhine-labs]
 [rhine-labs-repo]: https://github.com/KLumy/RhineLabs
 [rhine-labs]: https://rhinelab-toolbox.netlify.app/
 
-
-
 > Front-End
 
 - JavaScript(Vanilla + jQuery(아주 약간))
-
-  
 
 ## ROOT SEARCH
 
@@ -154,7 +144,10 @@ Deploy: [Rhine Labs][rhine-labs]
 
   <img src="https://user-images.githubusercontent.com/30566564/123922094-a92b4480-d9c2-11eb-8431-cf24ef041e5b.jpg" alt="ClassDiagram" style="zoom:80%;" />
 
-- SD	<img src="https://user-images.githubusercontent.com/30566564/123922157-b6483380-d9c2-11eb-9ba9-25b58ce7deb9.jpg" alt="SearchKeyword" style="zoom:80%;" />
+
+- SD
+
+  <img src="https://user-images.githubusercontent.com/30566564/123922157-b6483380-d9c2-11eb-9ba9-25b58ce7deb9.jpg" alt="SearchKeyword" style="zoom:80%;" />
 
 Front-End Repository: [root-search-client][root-search-client-repo]
 
@@ -162,13 +155,9 @@ Back-End Repository: [root-search-server][root-search-server-reop]
 
 Deploy: [ROOT SEARCH][root-search]
 
-
-
 [root-search-client-repo]: https://github.com/RootSearch/root-search-client
 [root-search-server-reop]: https://github.com/RootSearch/root-search-server
 [root-search]: https://rootsearch.github.io/root-search-client/
-
-
 
 > Front-End
 
@@ -182,8 +171,6 @@ Deploy: [ROOT SEARCH][root-search]
 
 - Redis
 
-  
-
 ## ANotablePad
 
 네트워크 구현을 위한 프로젝트로, 중앙에 서버를 두고 하나의 클라이언트가 그린 그림을 다수의 클라이언트에게 동일하게 보여주는 기능을 하는 서비스입니다.
@@ -192,25 +179,19 @@ Deploy: [ROOT SEARCH][root-search]
 
 간단한 작동 절차는 다음과 같습니다. 중앙에 Name Server를 두고 클라이언트는 Name Server로 접속합니다. 클라이언트가 Name Server에서 방을 만들면 Room Server 프로세스가 생성되어서 클라이언트의 연결을 변경합니다. 이후 Room Server가 서비스를 제공하고 그 방을 나오면 다시 Name Server로 접속하는 구조입니다.
 
-비교적 초기에 수행한 프로젝트로 완성도가 비교적 낮고 조잡하지만,기초적인 네트워크 프로토콜을 다수 사용하여 만든 프로젝트입니다.
-
-이 프로젝트를 통해서 네트워크의 동작 방식에 대해 피부로 느껴볼 수 있었습니다.
+다른 프로젝트보다 초기에 수행한 프로젝트로 완성도가 비교적 낮고 조잡하지만,기초적인 네트워크  다수 사용하여 만든 프로젝트입니다.
 
 이 프로젝트는 1인 프로젝트로 진행되었습니다.
-
-
 
 AnotablePad Repositories :
 
 - [AnotablePad_Client](https://github.com/KLumy/AnotablePad_Client)
 
-- [ANotablePad_ClientPC](https://github.com/KLumy/ANotablePad_ClientPC) 
+- [ANotablePad_ClientPC](https://github.com/KLumy/ANotablePad_ClientPC)
 
 - [AnotablePad_RoomServer](https://github.com/KLumy/AnotablePad_RoomServer)
 
 - [AnotablePad_NameServer](https://github.com/KLumy/AnotablePad_NameServer)
-
-  
 
 > Client
 
