@@ -73,15 +73,14 @@ Deploy: [PACEMAKER][pacemaker-domo]
 해당 서비스에서 프론트엔드 파트를 담당하였습니다.
 
 > Diagrams
-<details>
-    <summary>Class Diagram</summary>
-    <img src="https://user-images.githubusercontent.com/30566564/123922273-d37d0200-d9c2-11eb-9c24-6e9f6de2fa6e.jpg" alt="Web ClassDiagram" style="zoom:80%;" />
-</details>
-
-<details>
-    <summary>Sequence Diagram</summary>
-    <img src="https://user-images.githubusercontent.com/30566564/123922282-d5df5c00-d9c2-11eb-9843-a3c7bb775cd8.jpg" alt="Event Loop old" style="zoom:80%;" />
-</details>
+    <details>
+        <summary>Class Diagram</summary>
+        <img src="https://user-images.githubusercontent.com/30566564/123922273-d37d0200-d9c2-11eb-9c24-6e9f6de2fa6e.jpg" alt="Web ClassDiagram" style="zoom:80%;" />
+    </details>
+    <details>
+        <summary>Sequence Diagram</summary>
+        <img src="https://user-images.githubusercontent.com/30566564/123922282-d5df5c00-d9c2-11eb-9843-a3c7bb775cd8.jpg" alt="Event Loop old" style="zoom:80%;" />
+    </details>
 
 
 Repository: [AISpeaker-AIKU](https://github.com/KLumy/AISpeaker)
