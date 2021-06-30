@@ -27,8 +27,12 @@
 
 현재는 내부의 더미데이터에 의해 동작하며 < id: "test", pw: "test" > 로 로그인하여 테스트할 수 있습니다.
 
-> Diagrams
-[pacemaker][pacemaker-repo] 의 Readme에 수록하여 놓았습니다.
+
+
+> Diagrams:
+[PACEMAKER][pacemaker-repo]의 Readme에 수록하여 놓았습니다.
+
+
 
 Repository: [pacemaker][pacemaker-repo]
 
@@ -72,6 +76,8 @@ Deploy: [PACEMAKER][pacemaker-domo]
 
 해당 서비스에서 프론트엔드 파트를 담당하였습니다.
 
+
+
 > Diagrams
     <details>
         <summary>Class Diagram</summary>
@@ -81,6 +87,7 @@ Deploy: [PACEMAKER][pacemaker-domo]
         <summary>Sequence Diagram</summary>
         <img src="https://user-images.githubusercontent.com/30566564/123922282-d5df5c00-d9c2-11eb-9843-a3c7bb775cd8.jpg" alt="Event Loop old" style="zoom:80%;" />
     </details>
+
 
 
 Repository: [AISpeaker-AIKU](https://github.com/KLumy/AISpeaker)
@@ -110,6 +117,7 @@ AIKU에서 사용하였던 프론트엔드 구조를 재구성하여 조금 더 
 서버가 존재하지 않는 웹 서비스입니다.
 
 
+
 > Diagrams
     <details>
         <summary>Class Diagram</summary>
@@ -120,6 +128,7 @@ AIKU에서 사용하였던 프론트엔드 구조를 재구성하여 조금 더 
         <img src="https://user-images.githubusercontent.com/30566564/123922383-f14a6700-d9c2-11eb-8e7c-dd60283ea6b1.jpg" alt="EventFlow" style="zoom:80%;" />
         <img src="https://user-images.githubusercontent.com/30566564/123922392-f3acc100-d9c2-11eb-9633-b9f3b81a6fc6.jpg" alt="MakeGiftcard" style="zoom:80%;" />
     </details>
+
 
 
 Repository: [rhine-labs][rhine-labs-repo]
@@ -146,6 +155,7 @@ Deploy: [Rhine Labs][rhine-labs]
 이 서비스에서 프론트엔드를 담당하였습니다.
 
 
+
 > Diagrams
     <details>
         <summary>Class Diagram</summary>
@@ -156,6 +166,8 @@ Deploy: [Rhine Labs][rhine-labs]
         <img src="https://user-images.githubusercontent.com/30566564/123922157-b6483380-d9c2-11eb-9ba9-25b58ce7deb9.jpg" alt="SearchKeyword" style="zoom:80%;" />
     </details>
     
+    
+ 
 Front-End Repository: [root-search-client][root-search-client-repo]
 
 Back-End Repository: [root-search-server][root-search-server-reop]
