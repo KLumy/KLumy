@@ -31,7 +31,7 @@
 
 > Diagrams
 
-[PACEMAKER][pacemaker-repo]의 Readme에 수록하여 놓았습니다.
+[PACEMAKER][pacemaker-repo]의 README에 수록하여 놓았습니다.
 
 
 
@@ -169,9 +169,9 @@ Deploy: [Rhine Labs][rhine-labs]
     <summary>Sequence Diagram</summary>
     <img src="https://user-images.githubusercontent.com/30566564/123922157-b6483380-d9c2-11eb-9ba9-25b58ce7deb9.jpg" alt="SearchKeyword" style="zoom:80%;" />
 </details>
-    
-    
- 
+
+​    
+
 Front-End Repository: [root-search-client][root-search-client-repo]
 
 Back-End Repository: [root-search-server][root-search-server-reop]
@@ -196,7 +196,7 @@ Deploy: [ROOT SEARCH][root-search]
 
 ## ANotablePad
 
-네트워크 구현을 위한 프로젝트로, 중앙에 서버를 두고 하나의 클라이언트가 그린 그림을 다수의 클라이언트에게 동일하게 보여주는 기능을 하는 서비스입니다.
+서버-클라이언트 모델의 구현을 목적으로 한 프로젝트로, 중앙에 서버를 두고 하나의 클라이언트가 그린 그림을 다수의 클라이언트에게 동일하게 보여주는 기능을 하는 서비스입니다.
 
 클라이언트는 유니티를 이용해서 만들어졌고, 서버는 동일한 언어를 유지하고자 .Net 서버로 구성되었습니다.
 
@@ -225,3 +225,30 @@ AnotablePad Repositories :
 
 - C#
 - .Net Framework
+
+## DWS
+
+UP 방법론의 실습을 위해 진행한 프로젝트 입니다.
+서비스의 기능이나 디자인보다는 개발을 진행하는 과정 자체에 초점을 맞추었습니다.
+기능 자체는 단순한 전자 손목시계로, 저희 팀은 철저하게 실존하는 손목시계를 구현하는 것을 목표로 하였습니다.
+
+저는 이 프로젝트에서 전반적인 설계와 디자인, 그리고 각 기능을 총괄하는 컨트롤러와 이벤트 시스템의 구현을 담당하였습니다.
+이외에도 저에게 할당된 문서화를 위한 서류작업과 발표 자료 제작을 수행하였습니다.
+
+Java 이외에 Redmin과 젠킨스 등 생소한 도구를 새롭게 익히는 경험이 되었습니다.
+
+> Diagrams
+
+[Digital Watch System](https://github.com/KLumy/OOAD_DWS4)의 README에 수록하여 놓았습니다.]
+
+
+
+DWS Repositories :
+
+[Digital Watch System](https://github.com/KLumy/OOAD_DWS4)
+
+
+
+> Client
+
+- JAVA
