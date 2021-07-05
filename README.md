@@ -206,6 +206,23 @@ Deploy: [ROOT SEARCH][root-search]
 
 이 프로젝트는 1인 프로젝트로 진행되었습니다.
 
+
+
+> Diagrams
+
+<details>
+    <summary>Class Diagram</summary>
+    <img src="https://user-images.githubusercontent.com/30566564/124430042-a016ea80-dda9-11eb-9b96-c040194f1089.jpg" alt="ClassDiagram" style="zoom:80%;" />
+</details>
+<details>
+    <summary>Sequence Diagram</summary>
+    <img src="https://user-images.githubusercontent.com/30566564/124430030-9d1bfa00-dda9-11eb-81ba-70c3727937d6.jpg" alt="HostPC" style="zoom:80%;" />
+        <img src="https://user-images.githubusercontent.com/30566564/124430038-9f7e5400-dda9-11eb-92e2-2bc01163ea4c.jpg" alt="Tablet" style="zoom:80%;" />
+        <img src="https://user-images.githubusercontent.com/30566564/124430040-9f7e5400-dda9-11eb-9acc-a67a8321d50c.jpg" alt="Guest" style="zoom:80%;" />
+</details>
+
+
+
 AnotablePad Repositories :
 
 - [AnotablePad_Client](https://github.com/KLumy/AnotablePad_Client)
