@@ -1,6 +1,6 @@
 # Introduction
 
-프론트앤드 개발자를 베이스로 하는 컴퓨터학부 졸업생
+어제보다 나은 오늘을 살고 싶은 주니어 개발자
 
 - TypeScript, JavaScript, Python, C#
 - React
